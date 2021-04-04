@@ -460,7 +460,7 @@ class PlacePickerActivity : AppCompatActivity(),
 
         // Set the size of AppBarLayout to 68% of the total height
         coordinator.doOnLayout {
-            val size: Int = (it.height * 68) / 100
+            val size: Int = (it.height * 100) / 100
             appBarLayoutParams.height = size
         }
     }

@@ -28,6 +28,6 @@
     <bool name="auto_center_on_marker_click">false</bool>
 
     <!-- Do not change this one -->
-    <bool name="show_card_search">true</bool>
+    <bool name="show_card_search">false</bool>
 
 </resources>

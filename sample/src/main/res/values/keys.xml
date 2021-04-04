@@ -2,7 +2,7 @@
 <resources>
 
     <!-- TODO: Move to Firebase remote configs -->
-    <string name="key_google_apis_android" translatable="false">@string/key_android</string>
-    <string name="key_google_apis_maps" translatable="false">@string/key_maps</string>
+    <string name="key_google_apis_android" translatable="false">AIzaSyDEkFqerganKdP74jx5u0a4UT1PODmhd5M</string>
+    <string name="key_google_apis_maps" translatable="false">AIzaSyDEkFqerganKdP74jx5u0a4UT1PODmhd5M</string>
 
 </resources>

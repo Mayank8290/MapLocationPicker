@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
         builder.setAndroidApiKey(getString(R.string.key_google_apis_android))
                 .setMapsApiKey(getString(R.string.key_google_apis_maps))
 
+
         // If you want to set a initial location
         // rather then the current device location.
         // pingBuilder.setLatLng(LatLng(37.4219999, -122.0862462))
